@@ -2,7 +2,7 @@
 
 # hey, i'm linou
 
-i don't like to gatekeep
+small developer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=460&lines=c+%2F+c%2B%2B+dev;kernel+%26+driver+tinkerer;reverse+engineering+enjoyer;building+weird+low+level+stuff)
 
@@ -12,9 +12,9 @@ i don't like to gatekeep
 
 ### what i'm into
 
-low level c/c++, windows internals, kernel drivers, reverse engineering, and generally poking at things until they do what i want
+low level c/c++, windows internals, kernel drivers, reverse engineering.
 
-### currently cooking
+### projects that i already did
 
 - LinouFree
 - LinouTemp
@@ -39,6 +39,6 @@ low level c/c++, windows internals, kernel drivers, reverse engineering, and gen
 
 <div align="center">
 
-got a project idea or a bug to talk about, hit me up
+still learning a lot of things
 
 </div>
