@@ -4,9 +4,6 @@
 
 small developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=460&lines=c+%2F+c%2B%2B+dev;kernel+%26+driver+tinkerer;reverse+engineering+enjoyer;building+weird+low+level+stuff)
-
-</div>
 
 ---
 
