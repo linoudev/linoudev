@@ -12,14 +12,7 @@ small developer
 
 ### what i'm into
 
-low level c/c++, windows internals, kernel drivers, reverse engineering.
-
-### projects that i already did
-
-- LinouFree
-- LinouTemp
-- CatInjector
-- polygon-external
+c++, kernel drivers and game cheating in general
 
 ### stack
 
